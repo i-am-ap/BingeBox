@@ -22,23 +22,23 @@ The frontend is fully implemented, while backend integration is planned for futu
 🚀 Backend-ready structure (Node + Express)
 
 ## 🛠️ Tech Stack
-Frontend
+### Frontend
 
-React (Vite)
+### Frontend
 
-Tailwind CSS
+⚛️ React (Vite)
 
-HTML5
+🎨 Tailwind CSS
 
-JavaScript (ES6+)
+🌐 HTML5, JavaScript (ES6+)
 
-Backend (Planned)
+### Backend (Planned / In Progress)
 
-Node.js
+🟢 Node.js
 
-Express.js
+🚀 Express.js
 
-REST APIs
+🔗 REST APIs (for movies, users, auth)
 
 ## 📂 Folder Structure
 bingebox/
@@ -60,7 +60,7 @@ bingebox/
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/bingebox.git
+git clone https://github.com/i-am-ap/bingebox.git
 cd bingebox
 
 2️⃣ Install Dependencies
@@ -105,8 +105,8 @@ Readiness for full-stack development
 Aryan Palaspagar
 📧 aryanpalaspagar30@gmail.com
 
-💼 LinkedIn: Add link
-👾 GitHub: Add link
+💼 LinkedIn: ([Click Here](https://www.linkedin.com/in/aryanpalaspagar))
+👾 GitHub: ([Click Here](https://github.com/i-am-ap))
 
 ## ⭐ Support
 
