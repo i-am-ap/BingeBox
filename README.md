@@ -1,13 +1,13 @@
-#🎬 BingeBox
+# 🎬 BingeBox
 
 A Netflix-inspired streaming platform UI built using React (Vite) and Tailwind CSS, with a backend-ready architecture using Node.js and Express.
 
-📌 Project Overview
+## 📌 Project Overview
 
 BingeBox focuses on delivering a clean, modern, and responsive landing page experience similar to Netflix.
 The frontend is fully implemented, while backend integration is planned for future expansion.
 
-✨ Key Features
+## ✨ Key Features
 
 🎥 Netflix-style landing page design
 
@@ -21,7 +21,7 @@ The frontend is fully implemented, while backend integration is planned for futu
 
 🚀 Backend-ready structure (Node + Express)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend
 
 React (Vite)
@@ -40,7 +40,7 @@ Express.js
 
 REST APIs
 
-📂 Folder Structure
+## 📂 Folder Structure
 bingebox/
 ├── client/
 │   ├── src/
@@ -58,7 +58,7 @@ bingebox/
 ├── package.json
 └── README.md
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/your-username/bingebox.git
 cd bingebox
@@ -70,11 +70,11 @@ npm install
 npm run dev
 
 
-📍 App runs on:
+## 📍 App runs on:
 
 http://localhost:5173
 
-🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 Strong React fundamentals
 
@@ -86,7 +86,7 @@ Clean and scalable project structure
 
 Readiness for full-stack development
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 🔐 User authentication
 
@@ -100,7 +100,7 @@ Readiness for full-stack development
 
 🗄️ Full backend integration
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aryan Palaspagar
 📧 aryanpalaspagar30@gmail.com
@@ -108,6 +108,6 @@ Aryan Palaspagar
 💼 LinkedIn: Add link
 👾 GitHub: Add link
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, please ⭐ the repository.
